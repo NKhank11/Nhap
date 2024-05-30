@@ -1,0 +1,19 @@
+Danh sach ca si: 
+6
+Peter MS001 5
+Hanna MS002 6
+Jack MS003 7
+Sarra MS004 8
+Sable MS005 5
+Bob MS006 10
+
+Ca si co luong cao nhat: 
+Sable MS005 5
+
+Danh sach ca si sau khi sap xep: 
+Sable MS005 5
+Jack MS003 7
+Bob MS006 10
+Hanna MS002 6
+Sarra MS004 8
+Peter MS001 5

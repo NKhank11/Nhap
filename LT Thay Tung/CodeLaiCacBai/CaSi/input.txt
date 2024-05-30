@@ -1,0 +1,7 @@
+6
+Peter MS001 5
+Hanna MS002 6 100 1.5
+Jack  MS003 7 300 4 2
+Sarra MS004 8
+Sable MS005 5 200 3.5 4
+Bob   MS006 10 200 2
